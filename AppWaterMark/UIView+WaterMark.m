@@ -38,11 +38,4 @@
     }
 }
 
-//- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event {
-//    if (!self.isUserInteractionEnabled || self.isHidden || self.alpha <= 0.01) {
-//        return nil;
-//    }
-//    return self;
-//}
-
 @end
